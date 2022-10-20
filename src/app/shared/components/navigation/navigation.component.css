@@ -1,0 +1,11 @@
+.navigation {
+    display: flex;
+    align-items: center;
+    background-color: #000;
+    color: #fff;
+    justify-content: space-between;
+}
+
+.navigation .title p {
+    font-size: 22px;
+}
